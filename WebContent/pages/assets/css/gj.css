@@ -1,0 +1,78 @@
+body{
+	background:#ECECEC;
+}
+
+#mainpage{
+	height:900px;
+	width: 100%;
+	background: black;
+
+}
+
+#header{
+	margin:0;
+	background-color:black;
+}
+#cb{
+	background:url("../img/cb.jpg") repeat;
+	height:4px;
+}
+
+#text{
+	color: white;
+
+}
+
+/*×¢²áµÇÂ¼Ò³  */
+#bg{
+	background: url("../img/bg.jpg") repeat;
+	background-size: cover;
+	width: 100%;
+	min-height:900px;
+}
+
+#loginpage{
+	background:rgba(255,255,255,0.6);
+	
+	
+	border-radius:5px;
+	padding:30px;
+}
+
+#topbar{
+	background:white;
+	border-radius:5px;
+}
+
+#topbar li:hover{
+	border-radius:5px;
+}
+
+#page{
+	background:rgba(255,255,255,0.6);
+	
+	width:100%;
+	border-radius:5px;
+	padding:30px;
+}
+
+#baidubg{
+	background:rgba(255,255,255,0.6);
+	
+	width:100%;
+	border-radius:5px;
+	height:60px;
+	padding:10px;
+}
+
+#userbg{
+	background: url("../img/userbg.jpg");
+	background-size: cover;
+	width: 100%;
+	min-height:900px;
+}
+
+#baiduyixia:hover{
+	background:#0886EC;
+	color:white;
+}
